@@ -4,5 +4,6 @@
     "name": "co.parabox.stl",
     "unity": "2018.1",
     "version": "1.0.0",
-    "dependencies": {}
+    "dependencies": {"co.parabox.stl":"https://github.com/karl-/pb_Stl.git"
+    }
 }
